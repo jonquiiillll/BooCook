@@ -44,6 +44,19 @@ footer, header, hgroup, menu, nav, section {
     display: none;
   }
 }
+@media  screen and (min-width: 1440px) {
+  .img_ghost {
+    width: 300px !important;
+    top: 50% !important;
+    left: 5% !important;
+    transform: rotate(35deg) !important;
+  }
+  .img_ghost_2 {
+    right: 10%!important;
+    top: 60%!important;
+    transform: rotate(335deg)!important;
+  }
+}
 @media screen and (max-width: 1440px) {
   .img_ghost {
     width: 300px !important;

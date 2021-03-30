@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 10.668px;
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <image id="Фон" width="52" height="52" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAYAAADFeBvrAAAAVUlEQVRoge3PARHAMAwAoaz+PWc2vj1wwLe7Ow85L2VG6AJCdUJ1QnVCdUJ1QnVCdUJ1QnVCdUJ1QnVCdUJ1QnVCdUJ1QnVCdUJ1QnVCdUJ1Qmkz8wPwnQRkj+nr+AAAAABJRU5ErkJggg=="/>
+  <text id="BooCook" class="cls-1" x="25.75" y="29.5"><tspan x="25.75">BooCook</tspan></text>
+</svg>
